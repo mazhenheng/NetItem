@@ -1,0 +1,15 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/Common/bin/Debug/net6.0
+/Common/obj
+/EFCore/bin/Debug/net6.0
+/EFCore/obj
+/EFCoreModel/bin/Debug/net6.0
+/EFCoreModel/obj
+/Model/bin/Debug/net6.0
+/Model/obj
+/NetItem/bin/Debug/net6.0
+/NetItem/obj
